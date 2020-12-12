@@ -1,3 +1,4 @@
+# APP_1210_last_version/app/src/main/java/com/example/high_quality
 # MainActivity.java 
 辨識頁面 : 相機，相簿，連線
 # login.java
