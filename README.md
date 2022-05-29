@@ -3,8 +3,7 @@
 |:-----:|
 | <img src=https://user-images.githubusercontent.com/52123003/170857813-892d5049-604d-4a80-9c89-52939810b6e6.jpg > |
 
-|1
-|2|
+|1|2|
 |:-----:|:-----:|
 
 
