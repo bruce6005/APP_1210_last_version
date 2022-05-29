@@ -1,5 +1,7 @@
 # 過程
-1.專案的過程中YOLO V4負責找出箭靶的落點
+|1.專案的過程中YOLO V4負責找出箭靶的落點|
+|:-----:|
+| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_1).png width="220"> |
 ![try](https://user-images.githubusercontent.com/52123003/170857813-892d5049-604d-4a80-9c89-52939810b6e6.jpg)
 
 
