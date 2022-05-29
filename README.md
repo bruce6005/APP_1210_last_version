@@ -8,7 +8,7 @@
 |:-----:|:-----:|
 
 3.若直接藉由顏色判定會因為箭靶外圍較容易凹折的關係 而導致橢圓方程式與影像實際情況有出入
-|![F1](https://user-images.githubusercontent.com/52123003/170857943-ebb05f6b-ae8d-465c-821a-7c6cff7b98d6.png  width="800")|
+|<img src=https://user-images.githubusercontent.com/52123003/170857943-ebb05f6b-ae8d-465c-821a-7c6cff7b98d6.png width="800"> |
 |:-----:|
 
 
