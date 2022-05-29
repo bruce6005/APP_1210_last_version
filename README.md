@@ -6,7 +6,7 @@
 
 
 
-辨識分數的部分藉由截出紅色與黃色的區塊並得出兩者的橢圓方程式
+|辨識分數的部分藉由截出紅色與黃色的區塊並得出兩者的橢圓方程式|
 |<img src=https://user-images.githubusercontent.com/52123003/170857860-de8b9ec5-a71b-49c7-96bb-c66e5cf5f179.png >|<img src=https://user-images.githubusercontent.com/52123003/170857867-efe04d44-0f46-455d-8351-5699429bfffa.png >|
 |:-----:|:-----:|
 
