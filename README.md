@@ -1,6 +1,6 @@
 # 過程
 1.專案的過程中YOLO V4負責找出箭靶的落點
-| <img src=https://user-images.githubusercontent.com/52123003/170857813-892d5049-604d-4a80-9c89-52939810b6e6.jpg width="200"> |
+| <img src=https://user-images.githubusercontent.com/52123003/170857813-892d5049-604d-4a80-9c89-52939810b6e6.jpg width="1000"> |
 |:-----:|
 
 2.辨識分數的部分藉由截出紅色與黃色的區塊並得出兩者的橢圓方程式
