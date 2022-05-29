@@ -18,7 +18,7 @@
 
 
 5.結果
-|<img src=https://user-images.githubusercontent.com/52123003/170858116-76012102-9c8b-4233-bf1d-b83738b48375.png width="258">|<img src=https://user-images.githubusercontent.com/52123003/170858152-dbb5247d-4ea5-4d66-aee0-da6671853841.png width="258">|<img src=https://user-images.githubusercontent.com/52123003/170858269-34dd9b26-9444-448e-8e6f-02c01eecca5e.png width="258">|
+|<img src=https://user-images.githubusercontent.com/52123003/170858116-76012102-9c8b-4233-bf1d-b83738b48375.png width="254">|<img src=https://user-images.githubusercontent.com/52123003/170858152-dbb5247d-4ea5-4d66-aee0-da6671853841.png width="254">|<img src=https://user-images.githubusercontent.com/52123003/170858269-34dd9b26-9444-448e-8e6f-02c01eecca5e.png width="254">|
 |:-----:|:-----:|:-----:|
 
 
