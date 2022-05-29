@@ -1,4 +1,4 @@
-[The Development and Implementation of a Smartphone Based Archery Analysis System](https://github.com/bruce6005/APP_1210_last_version/blob/master/ICCE_2021.pdf)
+[The Development and Implementation of a Smartphone Based Archery Analysis System size="24"](https://github.com/bruce6005/APP_1210_last_version/blob/master/ICCE_2021.pdf)
 
 # 過程
 1.專案的過程中YOLO V4負責找出箭靶的落點
